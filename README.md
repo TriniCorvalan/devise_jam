@@ -1,3 +1,7 @@
+
+http://github.com - automatic!
+[Heroku](https://dashboard.heroku.com/apps/devise-jam-trini)
+
 # Actividad Presencial I
 ## Autenticación Manual desde cero
 
